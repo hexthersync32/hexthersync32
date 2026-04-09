@@ -39,7 +39,7 @@
 </h2>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-around;">
   <img 
     align="left" 
     alt="coding-gif" 
