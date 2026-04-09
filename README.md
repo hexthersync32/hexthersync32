@@ -12,17 +12,6 @@
   width="100%" 
 />
 
-<!--Welcome to my profile!-->
-<!--
-<span>
-  <div>
-    <img 
-      src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20my%20profile!&section=header&textBg=false&fontColor=5834eb&reversal=false&animation=twinkling&strokeWidth=1&stroke=7035b8&fontAlign=50&fontAlignY=50"
-    />
-  <div>
-<span>
--->
-
 <!-- Greeting -->
 <h2 align="right" style="color:#9c40bf">
   👽 Welcome To My Profile
@@ -49,76 +38,71 @@
   🌐 Please, Select Your Language Here:
 </h2>
 
-<img align="left" alt="coding-gif" width="50%" src="img/gif/3dgifmaker77218.gif" />
 
 <div style="display: flex; align-items: center;">
+  <img 
+    align="left" 
+    alt="coding-gif" 
+    width="50%" 
+    src="img/gif/3dgifmaker77218.gif" 
+  />
   <table style="border-style: dotted">
-  <tr>
-    <td   >
-        <a href="langs/README-ger.md"><img src="img/4x3/de.svg" height="13">Deutsch</a>
-      </td>
+    <!--Deutsch-->
+    <tr>
+      <td>
+          <a href="langs/README-ger.md"><img src="img/4x3/de.svg" height="13">Deutsch</a>
+        </td>
     </tr>
-
-  <tr>
-    <td   >
+    <tr>
+      <td>
         <a href="README.md"><img src="img/4x3/gb.svg" height="13">English</a>
       </td>
     </tr>
-
-  <tr>
-    <td   >
+    <tr>
+      <td>
         <a href="langs/README-esp.md"><img src="img/4x3/mx.svg" height="13">Español</a>
       </td>
     </tr>
-
-  <tr>
-    <td   >
+    <tr>
+      <td>
         <a href="langs/README-est.md"><img src="img/4x3/Flag_of_Esperanto.svg.png" height="13">Esperanto</a>
       </td>
     </tr>
-
-  <tr>
-    <td   >
+    <tr>
+      <td>
         <a href="langs/README-frn.md"><img src="img/4x3/fr.svg" height="13">Français</a>
       </td>
     </tr>
-
-  <tr>
-    <td   >
-      <a href="langs/README-por.md"><img src="img/4x3/br.svg" height="13">Português</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td   >
-      <a href="langs/README-chi.md"><img src="img/4x3/cn.svg" height="13">中文</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td   >
-      <a href="langs/README-kor.md"><img src="img/4x3/kr.svg" height="13">한국어</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td   >
-      <a href="langs/README-jpn.md"><img src="img/4x3/jp.svg" height="13">日本語</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td   >
-      <a href="langs/README-hin.md"><img src="img/4x3/in.svg" height="13">हिन्दी</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td   >
-      <a href="langs/README-rus.md"><img src="img/4x3/ru.svg" height="13">Русский</a>
-    </td>
-  </tr>
-
+    <tr>
+      <td>
+        <a href="langs/README-por.md"><img src="img/4x3/br.svg" height="13">Português</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="langs/README-chi.md"><img src="img/4x3/cn.svg" height="13">中文</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="langs/README-kor.md"><img src="img/4x3/kr.svg" height="13">한국어</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="langs/README-jpn.md"><img src="img/4x3/jp.svg" height="13">日本語</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="langs/README-hin.md"><img src="img/4x3/in.svg" height="13">हिन्दी</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="langs/README-rus.md"><img src="img/4x3/ru.svg" height="13">Русский</a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -263,18 +247,6 @@
   </table>
 </div>
 -->
-
-<!--
-<h2    style="color:#9c40bf">
-  🎹 Spotify Status
-</h2>
-
-<a href="https://open.spotify.com/track/4AnstjlAxgNRjym4uQQsju">
-  <img src="img/qwrwetq4tewr.png" alt="Now Playing">
-</a>
--->
-
-
 
 <h2 align="right" style="color:#9c40bf">
   Where's My Message to You:
