@@ -2,7 +2,7 @@
 <div align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=121212&reversal=false&section=header&textBg=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9c40bf"
   />
 </div>
 
@@ -346,6 +346,6 @@
 <div align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2bfb37&reversal=true&section=footer&textBg=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9c40bf&section=footer"
   />
 </div>
